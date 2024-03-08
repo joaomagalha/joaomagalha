@@ -5,10 +5,10 @@
 ##
 
 - 🏫 Atualmente estou no terceiro semestre de SIS
-- 📘 Estou estudanto Html e Css
-- 💼 Estou procurando um estágio na minha área
+- 📘 Aprendendo Html, Css e Javascript
+- 💼 Estou em busca de um etágio na área de desenvolvimento
 - 💬 Tenho o sonho de virar um desenvolvedor web
-- 💻 Entrei de cabeça na área e acabei me apaixonando
+- 💻 Estudante apaixonado pelo que faz
 
 
  ##
